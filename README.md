@@ -28,12 +28,14 @@ TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation Syst
 
 *Integrating these systems as-is works best for platforms that have existing escrow integrations. If you do not have an escrow system but want to integrate with TalentLayer before our TalentLayer Escrow & Dispute Resolution System launches, we recommend using [Kleros escrow contracts](https://kleros.gitbook.io/docs/products/escrow). TalentLayer's escrow system will be based on Kleros, so if you build an integration with Kleros it should be easily able to be migrated to the eventual TalentLayer Escrow & Dispute Resolution System. We appreciate your patience as we expand our feature set!*
 
-Learn more about [TalentLayerID.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerID.sol).
+Read the [TalentLayer Docs](https://docs.indie.talentlayer.org/).
 
-Learn more about [TalentLayerReview.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerReview.sol).
+View [TalentLayerID.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerID.sol).
 
-Learn more about [JobRegistry.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/JobRegistry.sol).
+View [TalentLayerReview.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerReview.sol).
 
-Learn more about [the TalentLayer Graph](https://docs.indie.talentlayer.org/developers/graph-schema).
+View [JobRegistry.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/JobRegistry.sol).
+
+Interact with [the TalentLayer Graph](https://docs.indie.talentlayer.org/developers/graph-schema).
 
 If you are considering integrating TalentLayer's Reputation System and Jobs Repo, please reach out to us on Twitter at [@TalentLayer](https://twitter.com/TalentLayer).
