@@ -10,8 +10,7 @@ TalentLayer's architecture provides marketplaces with the most important backend
 
 TalentLayer ID Universal Reputation System
 TalentLayer Universal Jobs Repo
-Escrow System
-Decentralized Dispute Resolution System
+TalentLayer Escrow & Dispute Resolution System
 
 Learn more about [TalentLayer](http://talentlayer.org).
 
@@ -23,12 +22,18 @@ Indie is styled as a reputation tool for independent freelancers. Similar to how
 
 # Integrating TalentLayer into Your Platform
 
-TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation System and TalentLayer Universal Jobs Repo are live in MVP status on Gnosis mainnet, with full smart contracts available for integration today. 
+TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation System and TalentLayer Universal Jobs Repo are live in MVP status on Gnosis mainnet, with full smart contracts and searchable graph available for integration today. 
+
+*If you are interested in using TalentLayer's contracts on another chain or L2, please reach out to us on Twitter - we intend TalentLayer to be multi-chain and are down to help deploy elsewhere in a way that keeps implementations on each chain referencable for all integrated platforms.*
+
+*Integrating these systems as-is works best for platforms that have existing escrow integrations. If you do not have an escrow system but want to integrate with TalentLayer before our TalentLayer Escrow & Dispute Resolution System launches, we recommend using [Kleros escrow contracts](https://kleros.gitbook.io/docs/products/escrow). TalentLayer's escrow system will be based on Kleros, so if you build an integration with Kleros it should be easily able to be migrated to the eventual TalentLayer Escrow & Dispute Resolution System. We appreciate your patience as we expand our feature set!*
 
 Learn more about [TalentLayerID.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerID.sol).
 
 Learn more about [TalentLayerReview.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerReview.sol).
 
 Learn more about [JobRegistry.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/JobRegistry.sol).
+
+Learn more about [the TalentLayer Graph](https://docs.indie.talentlayer.org/developers/graph-schema).
 
 If you are considering integrating TalentLayer's Reputation System and Jobs Repo, please reach out to us on Twitter at [@TalentLayer](https://twitter.com/TalentLayer).
