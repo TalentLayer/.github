@@ -24,7 +24,9 @@ Indie is styled as a reputation tool for independent freelancers. Similar to how
 
 TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation System and TalentLayer Universal Jobs Repo are live in MVP status on Gnosis mainnet, with full smart contracts and searchable graph available for integration today. 
 
-*If you are interested in using TalentLayer's contracts on another chain or L2, please reach out to us on Twitter - we intend TalentLayer to be multi-chain and are down to help deploy elsewhere in a way that keeps implementations on each chain referegcable for all integrated platforms. At this point, our team will work directly with integrating platforms engineers to ensure things go smoothly! We are currently working to expand our documentation going forward, and if you have any questions, don't hesitate to reach out.*
+*At this point, our team will work directly with integrating platforms engineers to ensure things go smoothly! We are currently working to expand our documentation going forward, and if you have any questions, don't hesitate to reach out.*
+
+*If you are interested in using TalentLayer's contracts on another chain or L2: we intend TalentLayer to be multi-chain and are down to help deploy elsewhere in a way that keeps implementations on each chain referegcable for all integrated platforms.*
 
 *To guarantee that your implementation will interface with the TalentLayer interoperable jobs repository and/or reputation system you must update your system to the V2 of our data model; coming soon (end of August 2022). The existing data schema does not include a key identifier that represents originating marketplaces/platforms - something necessary for the TalentLayer contracts to know the difference between the various actors writing data to TalentLayer. All future data schema updates should not impact interoperability.*
 
