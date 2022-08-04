@@ -26,6 +26,8 @@ TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation Syst
 
 *If you are interested in using TalentLayer's contracts on another chain or L2, please reach out to us on Twitter - we intend TalentLayer to be multi-chain and are down to help deploy elsewhere in a way that keeps implementations on each chain referencable for all integrated platforms.*
 
+**To guarantee that your implementation will interface with the TalentLayer interoperable jobs repository and/or reputation system you must update your system to the V2 of our data model; coming soon (end of August 2022). The existing data schema does not include a key identifier that represents originating marketplaces/platforms - something necessary for the TalentLayer contracts to know the difference between the various actors writing data to TalentLayer. All future data schema updates should not impact interoperability.**
+
 *Integrating these systems as-is works best for platforms that have existing escrow integrations. If you do not have an escrow system but want to integrate with TalentLayer before our TalentLayer Escrow & Dispute Resolution System launches, we recommend using [Kleros escrow contracts](https://kleros.gitbook.io/docs/products/escrow). TalentLayer's escrow system will be based on Kleros, so if you build an integration with Kleros it should be easily able to be migrated to the eventual TalentLayer Escrow & Dispute Resolution System. We appreciate your patience as we expand our feature set!*
 
 Read the [TalentLayer Docs](https://docs.indie.talentlayer.org/).
