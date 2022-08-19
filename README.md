@@ -22,7 +22,7 @@ Indie is styled as a reputation tool for independent freelancers. Similar to how
 
 # Integrating TalentLayer into Your Platform
 
-TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation System and TalentLayer Universal Jobs Repo are live in MVP status on Gnosis mainnet, with full smart contracts and searchable graph available for integration today. 
+TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation System and TalentLayer Universal Jobs Repo are live in MVP status on Gnosis mainnet and ETH's Kovan testnet, with full smart contracts and searchable graph available for integration today. 
 
 *At this point, our team will work directly with integrating platforms engineers to ensure things go smoothly! We are currently working to expand our documentation going forward, and if you have any questions, don't hesitate to reach out.*
 
