@@ -14,12 +14,6 @@ TalentLayer Escrow & Dispute Resolution System
 
 Learn more about [TalentLayer](http://talentlayer.org).
 
-# About Indie (AKA “TalentLayer Indie”)
-
-TalentLayer Indie is a demo tool that was built on TalentLayer. TalentLayer Indie is the first implementation of the TalentLayer Protocol, a decentralized backend for talent marketplaces and sovereign work reputation system. It serves as an example of what can be built using TalentLayer, and is available for forking on Github!
-
-Indie is styled as a reputation tool for independent freelancers. Similar to how you can build up a reputation over time by completing work and receiving reviews on freelancing platforms like Upwork or Freelancer.com, now you and your independent clients can create verified reviews to signal one another’s trustworthiness.
-
 # Integrating TalentLayer into Your Platform
 
 TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation System and TalentLayer Universal Jobs Repo are live in MVP status on Gnosis mainnet and ETH's Kovan testnet, with full smart contracts and searchable graph available for integration today. 
@@ -28,7 +22,7 @@ TalentLayer is currently pre-Alpha. The TalentLayer ID Universal Reputation Syst
 
 *If you are interested in using TalentLayer's contracts on another chain or L2, we are down to help deploy elsewhere in a way that keeps implementations on each chain referegcable for all integrated platforms. Please recach out to us at kirsten@talentlayer.org*
 
-Read the [TalentLayer Docs](https://docs.indie.talentlayer.org/).
+Read the [TalentLayer Docs](https://docs.talentlayer.org/).
 
 View [TalentLayerID.sol](https://github.com/TalentLayer/talentlayer-id-contracts/blob/main/contracts/TalentLayerID.sol).
 
