@@ -16,7 +16,7 @@ Learn more about [TalentLayer](http://talentlayer.org).
 
 # Integrating TalentLayer into Your Platform
 
-TalentLayer is currently Alpha. [View Deployments](http://talentlayer.org](https://docs.talentlayer.org/developers/deployments).
+TalentLayer is currently Alpha. [View Deployments](https://docs.talentlayer.org/developers/deployments).
 
 *At this point, our team will work directly with integrating platforms engineers to ensure things go smoothly! We are currently working to expand our documentation going forward, and if you have any questions, don't hesitate to reach out.*
 
